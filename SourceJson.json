@@ -1,0 +1,20 @@
+{
+    "JsonData": [
+      "Id",
+      "title",
+      "priority",
+      "url",
+      "content",
+      "subcategory",
+      "ILDescription",
+      "keywords",
+      "description",
+      "category",
+      "ILCategory",
+      "ILKeywords",
+      "ILTitle",
+      "CustomFlag",
+      "ILPriority"
+    ]
+  }
+  
